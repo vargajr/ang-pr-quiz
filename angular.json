@@ -127,5 +127,8 @@
       }
     }
   },
-  "defaultProject": "ang-pr-quiz"
+  "defaultProject": "ang-pr-quiz",
+  "cli": {
+    "analytics": "de904e9c-4284-419f-bd6a-d6f5ac4662f8"
+  }
 }
